@@ -1,0 +1,13 @@
+{
+  "type":"service_account",
+  "project_id": "sap-deployments-nonprod",
+  "private_key_id": "bc8fa2e6f788b77255119bb678ed23a7fa4c68ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOwx5k7W7fKk4D\n3LE2zPe5sPTTcmXDFmbP9h26Rjcwc0zJuluAnsUQWQAttoCf93mAMbAtgKxoHUbY\nOKcpmpFp+dtK1y4Vl/IclUpQ8Kad1wXUGGt0pbaLjTKiYRglARi3LviTZ83lp+LA\nOLafu2HXq648Y/n5olzH2b0X+YYvcvuzD+b5+T8NwyGP4OqwEGu0bvRk+yngnwLj\nGpUHhr4ncuYDHVqjN9GKoIratWhXaiOrkg1bPsLr28sIw/xA/dLLab7B37ZVxIcG\nV6lAXug6Syhx0diotoQuiJqp6Sv/d9H2V6+8nmLddz7pw4rHFupx+cUo8O0XdoYF\n452WeS8xAgMBAAECggEAH0cQ//+S+Bt0Nc1a2YlkKCkGwD3b+wkWgHsgwB8DFkc6\n5IFWejyKXxC3oDKtfoV3UdcyaY+/hPh40Riw4PBK8xci/01R4V5c98n1tgzRh6sR\nbKZNCxZOaQnxEPNTLbXewUdPvyzCzuz4tk9eAQfdozyLXQNau1K+alUb79aFYAPl\nOh5oWeUerH79/y+FBsJrf52XrDuyB4fkKTCXc3HHz8+nNIO+hPBTvX3uAB32VK0H\nfP2YIZxtt6r7fcvd/rcnfowTB2MoGDHPaVRNYySkYkawo0266wIK74PxVePVzzUs\nh0/5MUN1+li6Rti83xdhWlu2PO7JQar01ZZK8uOOKQKBgQDvXUJzEcPrtDxvznwC\n6eCz0Qc2d2+7skyFo+WSk8rWyhEiLFeyNR+55BUv7F0hh//X9bOhL6Rz36rQVZe2\nLnsFOGAgqMRKbhRJ3VErsNCjOUzgoJa6f8NH7drabfZwmxuyaZKeKDgem3N07KjX\nNwYIBk1RXqkaf4ERYsedrECWRwKBgQDdIc5r/2kBtdKmcNd/jJDasg6SI1/IyOUq\no9eRm9Rm/OypV1dsMgKXRJV9lUJ4oV171528MAea6Q4kJmhXW6k4iX6aPRkpnFeT\netZJuXA5kRq2falE377eohvIWLxBVHrOgfaVFdq+ZrcvRhpY4UuyFqPP9VNIYdSL\nmtE0goGyxwKBgQDBweIaN1U6pOkPMDveN+d2Z0vJYSEG9KtQun0JC61z9Jmt6esL\nDEmkNeaYpmI01FvbOr6vSVt7mKAyiDaIeFOIxDu79CEAht7Rc99S2IvqtGVwp02b\npfQzc2xmyABm4oenAiJ29+OFkxwAl9mMbLPrJv7LUS7djjyyEB25mkel3QKBgGJ2\n8TGJszo9uiS+zlZPQxj+fBp6geYn/lM0TYLavoN1T/Q/nf/hbOHqeh5HXifUwomo\nguYPBPPnnpJeP8vWVs2D+8m2NwQeR6i148FEP0KC6EAmSD8Q2i7MRE67pGf6tAxM\nNn5AEv0BQ8RbFNRKzafpCNxKwuDSHxBiyZD2I8Z1AoGBAM/1H7DV41wiHO20xjgt\naU+Zt9VzQ+w3gXbJQ12vJzl4q7PECJAC39hbjlMVI7M+NC7aI2D/jsGnK5ncpueO\nF8Vv5tmTvMPYDkW6qNPn0vJjCjWrHWDixhwIZMwyLYnoJQ+RKuO3IsydNOxJrZd4\nysVvHgMXddcxFJoru+UVNEGT\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-safeguarding@sap-deployments-nonprod.iam.gserviceaccount.com",
+  "client_id": "106692824484324243543",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-safeguarding%40sap-deployments-nonprod.iam.gserviceaccount.com"
+}
+
